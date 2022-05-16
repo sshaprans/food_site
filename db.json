@@ -45,6 +45,26 @@
       "name": "сьогодні modules",
       "phone": "123456789",
       "id": 5
+    },
+    {
+      "name": "modulDay",
+      "phone": "123",
+      "id": 6
+    },
+    {
+      "name": "12",
+      "phone": "12",
+      "id": 7
+    },
+    {
+      "name": "testMOdule",
+      "phone": "123",
+      "id": 8
+    },
+    {
+      "name": "123",
+      "phone": "123",
+      "id": 9
     }
   ]
 }
